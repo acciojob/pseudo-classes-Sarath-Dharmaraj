@@ -21,7 +21,7 @@ li{
 li:nth-child(odd){
 	background-color: white;
 }
-li:nth-child(n+3):last-child{
+li:nth-child(n+3){
 	background-color: pink;
 }
 li:first-child, li:last-child{
